@@ -1,0 +1,16 @@
+# Claude Code
+CLAUDE.md
+
+# 환경 변수
+.env
+.env.local
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
