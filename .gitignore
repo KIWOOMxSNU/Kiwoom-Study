@@ -1,5 +1,6 @@
 # Claude Code
 CLAUDE.md
+.claude/
 
 # 환경 변수
 .env
