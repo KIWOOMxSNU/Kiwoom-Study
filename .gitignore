@@ -2,6 +2,9 @@
 CLAUDE.md
 .claude/
 
+# git
+.gitmessage
+
 # 환경 변수
 .env
 .env.local
