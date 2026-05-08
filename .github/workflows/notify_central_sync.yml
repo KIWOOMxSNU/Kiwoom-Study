@@ -3,8 +3,6 @@ name: Notify central sync
 on:
   issues:
     types: [opened, edited, reopened, closed, labeled, unlabeled, unassigned, milestoned, demilestoned]
-  pull_request:
-    types: [opened, edited, reopened, closed, synchronize]
 
 jobs:
   dispatch:
